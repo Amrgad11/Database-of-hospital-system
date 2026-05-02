@@ -1,0 +1,9 @@
+git add .
+git commit -m "update files"
+git push
+   
+
+
+افتح cmd من عند مساراه الملف
+اكتب الاموار دي 
+دي اتحفظي اي تعديل ايحصل

@@ -1,5 +1,5 @@
 CREATE TABLE Dector(
-
-
-
+  name_dec VARCHAR(20) NOT NULL,
+  ID_DEC INT PRIMARY KEY
 );
+SELECT *FROM dector;
